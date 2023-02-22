@@ -1,4 +1,4 @@
-#generating password for the key
+##generating password for the key
 openssl genrsa -des3 -out server.key 2048
 
 #generating csr certificate.
